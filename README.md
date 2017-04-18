@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Fenda!
+Chang here! I like node.js and coffeescript
+
